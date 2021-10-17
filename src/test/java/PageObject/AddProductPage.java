@@ -70,7 +70,7 @@ public class AddProductPage
         Thread.sleep(5000);
         return successmessage.isDisplayed();
 
-        //WebElement successmessage wait.until(ExpectedConditions.visibilityOfElementLocated(By.className("message-success")));
+
 
     }
 
