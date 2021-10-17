@@ -8,4 +8,6 @@
  
  Step Process
  
- * 1.
+ * 1. I Downloaded Java on my windows
+
+ * 2. I configure my variable environment
