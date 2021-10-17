@@ -1,5 +1,9 @@
 # BolaJavaAutomation
 
- ##Technical test
+ ## Technical test
  
- ##### Java Automation add summer dress to cart and also be redirected to authentication page
+ ##### Java Automation 
+ 
+ The technical test is to " Add summer dress to cart and also be redirected to authentication page"  
+ 
+ Step Process
