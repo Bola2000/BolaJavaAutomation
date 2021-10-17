@@ -20,3 +20,5 @@
  * Set up my Github, Git Bash,Desktop Github
 
 I created my feature file, generate my step Definitions , Set my properties, Initialise my Webdriver, Inspect my element and put my code in the page object, Run my code to PASS and Then I Git add ., Git commit and Git push my Automation to Github Repository.
+
+![image](https://user-images.githubusercontent.com/92678893/137640535-2be1b281-3c36-4579-af58-d9fe3efa0c58.png)
