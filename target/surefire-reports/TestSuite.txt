@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 0.515 sec <<< FAILURE!
+setUpClass(TestRunner)  Time elapsed: 0.333 sec  <<< FAILURE!
+cucumber.runtime.CucumberException: No backends were found. Please make sure you have a backend module on your CLASSPATH.
+	at cucumber.runtime.Runtime.<init>(Runtime.java:81)
+	at cucumber.runtime.Runtime.<init>(Runtime.java:70)
+	at cucumber.runtime.Runtime.<init>(Runtime.java:66)
+	at cucumber.api.testng.TestNGCucumberRunner.<init>(TestNGCucumberRunner.java:42)
+	at TestRunner.setUpClass(TestRunner.java:43)
+
+tearDownClass(TestRunner)  Time elapsed: 0.335 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "cucumber.api.testng.TestNGCucumberRunner.finish()" because "this.testNGCucumberRunner" is null
+	at TestRunner.tearDownClass(TestRunner.java:67)
+
