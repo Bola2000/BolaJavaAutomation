@@ -8,6 +8,7 @@
  
  Step Process
  
- * 1. I Downloaded Java on my windows
-
- * 2. I configure my variable environment
+ * I Downloaded Java on my windows
+ * I configure my variable environment
+ * I Downloaded JDK on my windows  
+ * I Downloaded Maven on my windows 
